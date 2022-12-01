@@ -1,0 +1,12 @@
+
+.link_subir{
+    text-align: right;
+    margin: 0rem 1rem 1rem 0rem;
+    overflow: hidden;
+}
+
+.link_subir a{
+    background-color: var(--aa);
+    padding: .5rem;
+    border-radius: 50rem;
+}

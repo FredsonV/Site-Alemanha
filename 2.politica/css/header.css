@@ -1,0 +1,42 @@
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background-color: var(--black);
+}
+
+.historia_header{
+    background-color: var(--background);
+    padding-inline: 0.5rem;
+    padding-block: .5rem;
+    border-radius: 4rem;
+}
+
+.historia_header:hover{
+    text-decoration:underline;
+}
+
+.politica_header{
+    background-color: var(--red);
+    padding-inline: 0.75rem;
+    padding-block: .5rem;
+    border-radius: 4rem;
+}
+
+.politica_header:hover{
+    text-decoration:underline;
+}
+
+
+.geral_header{
+    background-color: var(--yellow);
+    padding-inline: 1rem;
+    padding-block: .5rem;
+    border-radius: 4rem;
+}
+
+.geral_header:hover{
+    text-decoration:underline;
+}

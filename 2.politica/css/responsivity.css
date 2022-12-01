@@ -1,0 +1,32 @@
+@media (min-width: 650px){
+    h1 {
+        font-size: 5rem;
+    }
+    .politica_1  {
+        display: flex;
+        align-items: center;
+    }
+    .politica_1 p {
+        padding: 3rem;
+        font-size: 1rem;
+    }
+    .politica_1 img {
+        width: 130rem;
+    }
+    .politica_2 {
+        display: flex;
+        align-items: center;
+    }
+    .politica_2 img{
+        padding-top: 1.5rem;
+        padding-left: 1rem;
+        width: 500rem;
+    }
+    .politica_2 p {
+        padding: 3rem;
+        font-size: 1rem;
+    }
+    .historia_2 p:nth-of-type(2){
+        padding-top: 5rem ;
+    }
+}    
