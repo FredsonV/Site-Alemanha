@@ -1,0 +1,32 @@
+
+.historia{
+    background-color: var(--black);
+    padding-inline: 5.5rem;
+    border-radius: 4rem 4rem 0rem 0rem;
+    padding-block: 1rem;
+}
+
+.historia:hover{
+    text-decoration: underline;
+}
+
+.politica{
+    background-color: var(--red);
+    padding-inline: 5.75rem;
+    padding-block: 1rem;
+}
+
+.politica:hover{
+    text-decoration: underline;
+}
+
+.geral{
+    background-color: var(--yellow);
+    padding-inline: 7rem;
+    padding-block: 1rem;
+    border-radius: 0rem 0rem 4rem 4rem;
+}
+
+.geral:hover{
+    text-decoration: underline;
+}
