@@ -1,0 +1,36 @@
+@media (min-width: 650px){
+    h1 {
+        font-size: 5rem;
+    }
+    .historia_1  {
+        display: flex;
+        align-items: center;
+    }
+    .historia_1 p {
+        padding: 3rem;
+        font-size: 1.2rem;
+    }
+    .historia_2 {
+        display: flex;
+        align-items: center;
+    }
+    .historia_2 img{
+        padding-top: 1.5rem;
+        max-width: 90%;
+        padding-left: 1rem;
+    }
+    .historia_2 p {
+        padding: 3rem;
+        font-size: 1rem;
+    }
+    .historia_2 p:nth-of-type(2){
+        display: none;
+    }
+    .historia_3 img {
+        padding-top: 1.5rem;
+    }
+    .historia_3 p {
+        font-size: 1.2rem;
+        padding: 2rem;
+    }
+}    
